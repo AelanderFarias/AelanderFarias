@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Aelander
 - 👀 I’m interested in technology and cars
-- 🌱 I’m currently learning relational database
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aelander/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOfKfrSL0RK2etlhWQLE7ug%3D%3D)
